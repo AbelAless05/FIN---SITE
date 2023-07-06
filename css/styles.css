@@ -1,0 +1,49 @@
+
+body {
+    background-color: #c3e0e0;
+  }
+  
+  .container {
+    margin-top: 80px;
+  }
+  
+  .form-group label {
+    font-weight: bold;
+  }
+  
+  .logo-img {
+    margin-bottom: 60px;
+  }
+  
+  .form-group:not(:last-child) {
+    margin-bottom: 30px;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+  }
+  
+  .button-container .divider {
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  .button-container .divider .divider-text {
+    display: inline-block;
+    padding: 0 10px;
+  }
+  
+  .button-container .btn-primary {
+    background-color: green;
+    border-color: green;
+  }
+  
+  .button-container .btn-secondary {
+    background-color: blue;
+    border-color: blue;
+  }
+  
+  .button-container .btn-block {
+    width: 30%;
+  }
+  
